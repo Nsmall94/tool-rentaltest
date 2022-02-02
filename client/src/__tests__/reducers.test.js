@@ -16,17 +16,17 @@ const initialState = {
   cart: [
     {
       _id: '1',
-      name: 'Soup',
+      name: 'hammer',
       purchaseQuantity: 1
     },
     {
       _id: '2',
-      name: 'Bread',
+      name: 'drill',
       purchaseQuantity: 2
     }
   ],
   cartOpen: false,
-  categories: [{ name: 'Food' }],
+  categories: [{ name: 'Hand Tool' }],
   currentCategory: '1',
 };
 
